@@ -15,7 +15,8 @@ El repositorio se organiza en las siguientes secciones:
 
 - **Programas del Curso**: Contiene los códigos fuente desarrollados durante las sesiones del curso.
 - **Proyectos**: Incluye proyectos prácticos que aplican los conceptos aprendidos.
-- 
+- **Archivos descargables**: 
+
 ## 📝 Nota
 
 La estructura de los codigos y el orden de los mismos no la mejor, tambien estoy aprendiendo como mejorar ese aspecto para futuros códigos.
