@@ -15,19 +15,14 @@ El repositorio se organiza en las siguientes secciones:
 
 - **Programas del Curso**: Contiene los códigos fuente desarrollados durante las sesiones del curso.
 - **Proyectos**: Incluye proyectos prácticos que aplican los conceptos aprendidos.
+- 
+## 📝 Nota
+
+La estructura de los codigos y el orden de los mismos no la mejor, tambien estoy aprendiendo como mejorar ese aspecto para futuros códigos.
 
 ## 🛠️ Requisitos
 
 Para ejecutar los códigos de este repositorio, necesitarás:
 
 - **Python 3.x**: Descarga la última versión desde la [página oficial de Python](https://www.python.org/downloads/).
-- **Editor de Código o IDE**: Se recomienda [Visual Studio Code](https://code.visualstudio.com/) o [PyCharm](https://www.jetbrains.com/pycharm/) para una mejor experiencia de desarrollo.
-
-## 🚀 Cómo Empezar
-
-Sigue estos pasos para clonar y ejecutar los proyectos en tu máquina local:
-
-1. **Clona el repositorio**:
-
-   ```bash
-   git clone https://github.com/Aldo-Solares/Python-course.git
+- **Editor de Código o IDE**: Yo personalmente recomiendo [Visual Studio Code](https://code.visualstudio.com/)
