@@ -1,0 +1,13 @@
+<crypto coin="Perry" Launch="2025">
+    <investor ID="1">Aldo A</investor>
+    <investor ID="2">Aldo B</investor>
+    <investor ID="3">Aldo C</investor>
+    <investor ID="4">Aldo D</investor>
+    <investor ID="5">Aldo E</investor>
+    <investor ID="6">Aldo F</investor>
+    <investor ID="7">Aldo G</investor>
+    <investor ID="8">Aldo H</investor>
+    <investor ID="9">Aldo I</investor>
+    <investor ID="10">Aldo J</investor>
+    <Random atributo="1">Aldo 1<Random2 atributo="2">Aldo 2<Random3 atributo="3">Aldo 3</Random3></Random2></Random>
+</crypto>
