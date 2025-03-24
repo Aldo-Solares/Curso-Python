@@ -4,7 +4,6 @@
 
 Aqui encontraras varios códigos y proyectos desarrollados durante el curso [Python TOTAL](https://www.udemy.com/course/python-total/?srsltid=AfmBOoqmTJIpGSdJRY9PcUkBnHO_GZpS4BhyxYsRjMveT1vDqNbKyAqg&couponCode=LETSLEARNNOW)
 
-
 ## 🎯 Objetivo del repositorio
 
 Este repositorio tiene como proposito compartir el progreso que fui teniendo al aprender Python.
@@ -19,7 +18,7 @@ El repositorio se organiza en las siguientes secciones:
 
 ## 📝 Nota
 
-La estructura de los codigos y el orden de los mismos no la mejor, tambien estoy aprendiendo como mejorar ese aspecto para futuros códigos.
+La estructura de los codigos y el orden de los mismos no es la mejor, parte de esto es mejorar este aspecto para futuros códigos.
 
 ## 🛠️ Requisitos
 
