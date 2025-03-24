@@ -13,9 +13,9 @@ Este repositorio tiene como proposito compartir el progreso que fui teniendo al 
 
 El repositorio se organiza en las siguientes secciones:
 
-- **Programas del Curso**: Contiene los códigos fuente desarrollados durante las sesiones del curso.
+- **Programas del Curso**: Contiene los códigos desarrollados durante las sesiones del curso.
 - **Proyectos**: Incluye proyectos prácticos que aplican los conceptos aprendidos.
-- **Archivos descargables**: 
+- **Archivos descargables**: Contiene archivos que son necesarios para la ejecución de algunos códigos.
 
 ## 📝 Nota
 
