@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi repositorio **Curso-Python**!
 
-Aqui encontraras varios códigos y proyectos desarrollados durante el curso [Python TOTAL](https://www.udemy.com/course/python-total/?srsltid=AfmBOoqmTJIpGSdJRY9PcUkBnHO_GZpS4BhyxYsRjMveT1vDqNbKyAqg&couponCode=LETSLEARNNOW)
+Aqui encontraras varios códigos y proyectos desarrollados durante el curso [Python TOTAL](https://www.udemy.com/course/python-total/?srsltid=AfmBOoqmTJIpGSdJRY9PcUkBnHO_GZpS4BhyxYsRjMveT1vDqNbKyAqg&couponCode=LETSLEARNNOW).
 
 ## 🎯 Objetivo del repositorio
 
@@ -25,4 +25,4 @@ La estructura de los codigos y el orden de los mismos no es la mejor, parte de e
 Para ejecutar los códigos de este repositorio, necesitarás:
 
 - **Python 3.x**: Descarga la última versión desde la [página oficial de Python](https://www.python.org/downloads/).
-- **Editor de Código o IDE**: Yo personalmente recomiendo [Visual Studio Code](https://code.visualstudio.com/)
+- **Editor de Código o IDE**: Yo personalmente recomiendo [Visual Studio Code](https://code.visualstudio.com/).
