@@ -15,7 +15,7 @@ El repositorio se organiza en las siguientes secciones:
 - **Programas del Curso**: Contiene los códigos desarrollados durante las sesiones del curso.
 - **Proyectos**: Contiene los proyectos prácticos que aplican los conceptos aprendidos durante el curso.
 - **Archivos descargables**: Contiene archivos que son necesarios para la ejecución de algunos códigos.
-- **Google Colab**: Contiene ejercicios que fueron realizados en Google Colab, junto con los archivos "csv" que contienen los datos para desarrollar los ejercicios.
+- **ML**: Contiene ejercicios que fueron realizados en Google Colab, junto con los archivos "csv" que contienen los datos para desarrollar los ejercicios.
 
 ## 📝 Nota
 
